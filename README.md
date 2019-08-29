@@ -26,4 +26,4 @@
 
  My name is Sai Jyothsna Mathi and I am doing my masters in Applied Computer Science
  
- ![](https://github.com/jyothsna5268/about-me/blob/master/mfp.JPG)
+ ![Image](https://github.com/jyothsna5268/about-me/blob/master/mfp.JPG)
